@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_10.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_15.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_2.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_24.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_29.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_4.txt
+Sitemap: https://zealouszorilla.github.io/zealouszorilla_github_io_zp527_9.txt
